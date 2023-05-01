@@ -8,4 +8,10 @@ def conectarseAlBackENd():
 
 
 def alberto():
+    pass 
+
+def leo():
+    pass
+
+def lucas():
     pass
