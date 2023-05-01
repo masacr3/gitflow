@@ -2,5 +2,6 @@
 def main():
     pass
 
+#se conecta al backend para credenciales
 def conectarseAlBackENd():
     pass
